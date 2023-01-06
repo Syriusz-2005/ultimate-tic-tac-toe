@@ -1,0 +1,7 @@
+node_modules/
+out/
+output.png
+test/
+training-data/
+*.jpg
+lib/

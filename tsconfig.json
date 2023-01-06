@@ -1,0 +1,12 @@
+{
+  "include": [ "src", "index.js" ],
+  "compilerOptions": {
+    "strict": true,
+    "moduleResolution": "Node",
+    "module": "CommonJS",
+    "outDir": "lib",
+    "skipLibCheck": true,
+    "target": "ESNext",
+    "declaration": true
+  }
+}
